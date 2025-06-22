@@ -1,4 +1,5 @@
-const express = require('express');
+// Company Scraper API - Updated Version 1.1
+// Last updated: 2025-01-22const express = require('express');
 const cors = require('cors');
 
 const app = express();
